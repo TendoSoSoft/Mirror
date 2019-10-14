@@ -1,13 +1,13 @@
 {
    "name":"com.vis2k.mirror",
    "displayName":"Mirror",
-   "version":"4.0.7",
+   "version":"4.0.8",
    "unity":"2019.2",
    "description":"Mirror is a high level Networking API for Unity, supporting different low level Transports.",
    "author":"vis2k",
    "repository":{
       "type":"git",
-      "url":"https://github.com/TendoSoSoft/Mirror.git#v4.0.7"
+      "url":"https://github.com/TendoSoSoft/Mirror.git#v4.0.8"
    },
    "samples":[
       {
